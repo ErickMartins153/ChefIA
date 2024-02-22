@@ -3,7 +3,7 @@ package br.com.upe.ChefIA.servlet;
 import br.com.upe.ChefIA.handlers.*;
 import com.amazon.ask.Skill;
 import com.amazon.ask.Skills;
-import com.amazon.ask.servlet.SkillServlet;
+import br.com.upe.ChefIA.servlet.SkillServlet;
 
 public class ChefiaServlet extends SkillServlet {
 
