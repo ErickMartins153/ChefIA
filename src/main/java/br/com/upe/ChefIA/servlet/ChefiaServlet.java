@@ -1,4 +1,4 @@
-package br.com.upe.ChefIA;
+package br.com.upe.ChefIA.servlet;
 
 import br.com.upe.ChefIA.handlers.AskForRecipeIntentHandler;
 import br.com.upe.ChefIA.handlers.LaunchRequestHandler;
